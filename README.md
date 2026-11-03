@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pradeep&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=I%20build%20intelligent%20systems%20that%20see%2C%20learn%20and%20allocate&descAlignY=62&descSize=17" alt="Pradeep" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1300&color=58A6FF&center=true&vCenter=true&width=640&lines=Deep+RL+for+5G+healthcare+network+slicing;Vision-language+models+that+hallucinate+less;Diffusion-based+image+restoration;200%2B+LeetCode+%7C+CodeChef+1500%2B)](https://github.com/21Pradeep08)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1300&color=58A6FF&center=true&vCenter=true&width=640&lines=Deep+RL+for+5G+healthcare+network+slicing;Vision-language+models+that+hallucinate+less;Diffusion-based+image+restoration;CodeChef+3%E2%98%85+%7C+LeetCode+problem+solver)](https://github.com/21Pradeep08)
 
 ![IIIT Vadodara](https://img.shields.io/badge/B.Tech_CSE-IIIT_Vadodara_'27-0f2027?style=for-the-badge)
 ![NIT Silchar](https://img.shields.io/badge/Research_Intern-NIT_Silchar-2c5364?style=for-the-badge)
@@ -16,7 +16,7 @@
 
 | 🔬 Research | 🧠 ML systems | 🏆 Problem solving | 🤝 Leadership |
 |:---:|:---:|:---:|:---:|
-| **DDPG + LSTM** network slicing for healthcare, IEEE-style paper in progress | **93.2%** QoS on 63K+ slice requests · **82.2%** speech-emotion accuracy | **200+** LeetCode · **1500+** CodeChef · **130+** GfG | Coding Club contests for **100+** students · Sports events for **200+** |
+| **DDPG + LSTM** network slicing for healthcare, IEEE-style paper in progress | **93.2%** QoS on 63K+ slice requests · **82.2%** speech-emotion accuracy | ![LeetCode](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fpradeep21o8&query=%24.totalSolved&label=LeetCode&suffix=%20solved&logo=leetcode&logoColor=white&color=FFA116) ![CodeChef](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodechef-api.vercel.app%2Fhandle%2Fpradeep_21o8&query=%24.currentRating&label=CodeChef&suffix=%20rating&logo=codechef&logoColor=white&color=5B4638) | Coding Club contests for **100+** students · Sports events for **200+** |
 
 ---
 
