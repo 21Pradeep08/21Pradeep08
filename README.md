@@ -16,7 +16,7 @@
 
 | 🔬 Research | 🧠 ML systems | 🏆 Problem solving | 🤝 Leadership |
 |:---:|:---:|:---:|:---:|
-| **DDPG + LSTM** network slicing for healthcare, IEEE-style paper in progress | **93.2%** QoS on 63K+ slice requests · **82.2%** speech-emotion accuracy | <!--STATS-->![LeetCode](https://img.shields.io/badge/LeetCode-profile-FFA116?logo=leetcode&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-1678_rating_·_3★-5B4638?logo=codechef&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-44_solved-5B4638?logo=codechef&logoColor=white)<!--/STATS--> | Coding Club contests for **100+** students · Sports events for **200+** |
+| **DDPG + LSTM** network slicing for healthcare, IEEE-style paper in progress | **93.2%** QoS on 63K+ slice requests · **82.2%** speech-emotion accuracy | <!--STATS-->![LeetCode](https://img.shields.io/badge/LeetCode-293_solved-FFA116?logo=leetcode&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-1678_rating-5B4638?logo=codechef&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-44_solved-5B4638?logo=codechef&logoColor=white)<!--/STATS--> | Coding Club contests for **100+** students · Sports events for **200+** |
 
 ---
 
@@ -73,7 +73,7 @@
 
 [![LeetCode stats](https://leetcard.jacoblin.cool/pradeep21o8?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/pradeep21o8/)
 
-<!--STATS-->![LeetCode](https://img.shields.io/badge/LeetCode-profile-FFA116?logo=leetcode&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-1678_rating_·_3★-5B4638?logo=codechef&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-44_solved-5B4638?logo=codechef&logoColor=white)<!--/STATS-->
+<!--STATS-->![LeetCode](https://img.shields.io/badge/LeetCode-293_solved-FFA116?logo=leetcode&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-1678_rating-5B4638?logo=codechef&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-44_solved-5B4638?logo=codechef&logoColor=white)<!--/STATS-->
 
 [LeetCode profile](https://leetcode.com/u/pradeep21o8/) · [CodeChef profile](https://www.codechef.com/users/pradeep_21o8)
 
