@@ -48,24 +48,29 @@ def badge(label, msg, color, logo, link):
 
 
 def main():
-    parts = []
+    lc = cc = None
     try:
-        parts.append(badge("LeetCode", f"{leetcode()} solved", "FFA116", "leetcode", f"https://leetcode.com/u/{LC_USER}/"))
+        lc = badge("LeetCode", f"{leetcode()} solved", "FFA116", "leetcode", f"https://leetcode.com/u/{LC_USER}/")
     except Exception as e:
         print("leetcode failed:", e, file=sys.stderr)
     try:
         rating, solved, stars = codechef()
+        parts = []
         if rating:
             parts.append(badge("CodeChef", f"{rating} rating" + (f" · {stars}★" if stars else ""), "5B4638", "codechef", f"https://www.codechef.com/users/{CC_USER}"))
         if solved:
             parts.append(badge("CodeChef", f"{solved} solved", "5B4638", "codechef", f"https://www.codechef.com/users/{CC_USER}"))
+        cc = " ".join(parts) or None
     except Exception as e:
         print("codechef failed:", e, file=sys.stderr)
-    if not parts:
+    if not (lc or cc):
         sys.exit("no stats fetched; leaving README unchanged")
-    block = "<!--STATS-->" + " ".join(parts) + "<!--/STATS-->"
     s = open("README.md", encoding="utf-8").read()
-    new = re.sub(r"<!--STATS-->.*?<!--/STATS-->", lambda m: block, s, flags=re.S)
+    new = s
+    if lc:
+        new = re.sub(r"<!--LC-->.*?<!--/LC-->", lambda m: "<!--LC-->" + lc + "<!--/LC-->", new, flags=re.S)
+    if cc:
+        new = re.sub(r"<!--CC-->.*?<!--/CC-->", lambda m: "<!--CC-->" + cc + "<!--/CC-->", new, flags=re.S)
     if new != s:
         open("README.md", "w", encoding="utf-8").write(new)
         print("README updated")
