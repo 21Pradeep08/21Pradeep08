@@ -13,12 +13,23 @@ def get(url, data=None, headers=None):
 
 
 def leetcode():
-    q = {"query": "query u($u:String!){matchedUser(username:$u){submitStatsGlobal{acSubmissionNum{difficulty count}}}}",
-         "variables": {"u": LC_USER}}
-    out = get("https://leetcode.com/graphql", json.dumps(q).encode(),
-              {"Content-Type": "application/json", "Referer": f"https://leetcode.com/u/{LC_USER}/"})
-    rows = json.loads(out)["data"]["matchedUser"]["submitStatsGlobal"]["acSubmissionNum"]
-    return next(r["count"] for r in rows if r["difficulty"] == "All")
+    errs = []
+    try:
+        q = {"query": "query u($u:String!){matchedUser(username:$u){submitStatsGlobal{acSubmissionNum{difficulty count}}}}",
+             "variables": {"u": LC_USER}}
+        out = get("https://leetcode.com/graphql", json.dumps(q).encode(),
+                  {"Content-Type": "application/json", "Referer": f"https://leetcode.com/u/{LC_USER}/"})
+        rows = json.loads(out)["data"]["matchedUser"]["submitStatsGlobal"]["acSubmissionNum"]
+        return next(r["count"] for r in rows if r["difficulty"] == "All")
+    except Exception as e:
+        errs.append(f"graphql: {e}")
+    for url, key in (("https://leetcode-stats-api.herokuapp.com/" + LC_USER, "totalSolved"),
+                     ("https://alfa-leetcode-api.onrender.com/" + LC_USER + "/solved", "solvedProblem")):
+        try:
+            return int(json.loads(get(url))[key])
+        except Exception as e:
+            errs.append(f"{url}: {e}")
+    raise RuntimeError("; ".join(errs))
 
 
 def codechef():
