@@ -89,7 +89,7 @@ Comfortable with monotone stacks, prefix sums, LCA with binary lifting, and deri
 
 ### 📫 Let's talk
 
-[![Email](https://img.shields.io/badge/Email-00pkc00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:00pkc00@gmail.com)
+[![Email](https://img.shields.io/badge/Email-saranpradeep21082005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saranpradeep21082005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-21Pradeep08-181717?style=for-the-badge&logo=github)](https://github.com/21Pradeep08)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer" alt="footer" />
