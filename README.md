@@ -6,7 +6,7 @@
 
 ![IIIT Vadodara](https://img.shields.io/badge/B.Tech_CSE-IIIT_Vadodara_'27-0f2027?style=for-the-badge)
 ![NIT Silchar](https://img.shields.io/badge/Research_Intern-NIT_Silchar-2c5364?style=for-the-badge)
-![Open to](https://img.shields.io/badge/Open_to-Internships_%26_Research-2ea043?style=for-the-badge)
+![Open to](https://img.shields.io/badge/Open_to-Internships_%26_Jobs-2ea043?style=for-the-badge)
 
 </div>
 
