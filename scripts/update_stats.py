@@ -42,23 +42,23 @@ def codechef():
             int(solved.group(1)) if solved else None, nstars)
 
 
-def badge(label, msg, color, logo):
+def badge(label, msg, color, logo, link):
     esc = lambda t: str(t).replace("-", "--").replace("_", "__").replace(" ", "_")
-    return f"![{label}](https://img.shields.io/badge/{esc(label)}-{esc(msg)}-{color}?logo={logo}&logoColor=white)"
+    return f"[![{label}](https://img.shields.io/badge/{esc(label)}-{esc(msg)}-{color}?logo={logo}&logoColor=white)]({link})"
 
 
 def main():
     parts = []
     try:
-        parts.append(badge("LeetCode", f"{leetcode()} solved", "FFA116", "leetcode"))
+        parts.append(badge("LeetCode", f"{leetcode()} solved", "FFA116", "leetcode", f"https://leetcode.com/u/{LC_USER}/"))
     except Exception as e:
         print("leetcode failed:", e, file=sys.stderr)
     try:
         rating, solved, stars = codechef()
         if rating:
-            parts.append(badge("CodeChef", f"{rating} rating" + (f" · {stars}★" if stars else ""), "5B4638", "codechef"))
+            parts.append(badge("CodeChef", f"{rating} rating" + (f" · {stars}★" if stars else ""), "5B4638", "codechef", f"https://www.codechef.com/users/{CC_USER}"))
         if solved:
-            parts.append(badge("CodeChef", f"{solved} solved", "5B4638", "codechef"))
+            parts.append(badge("CodeChef", f"{solved} solved", "5B4638", "codechef", f"https://www.codechef.com/users/{CC_USER}"))
     except Exception as e:
         print("codechef failed:", e, file=sys.stderr)
     if not parts:
