@@ -67,11 +67,19 @@
 
 ---
 
-## 🏆 Problem solving
+## 🏆 Problem solving (live stats)
 
-![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-1500%2B_rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-130%2B_solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+<div align="center">
+
+[![LeetCode stats](https://leetcard.jacoblin.cool/pradeep21o8?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/pradeep21o8/)
+
+![LeetCode solved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fpradeep21o8&query=%24.totalSolved&label=LeetCode%20solved&logo=leetcode&logoColor=white&color=FFA116&style=for-the-badge)
+![CodeChef rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodechef-api.vercel.app%2Fhandle%2Fpradeep_21o8&query=%24.currentRating&label=CodeChef%20rating&logo=codechef&logoColor=white&color=5B4638&style=for-the-badge)
+![CodeChef stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodechef-api.vercel.app%2Fhandle%2Fpradeep_21o8&query=%24.stars&label=CodeChef%20stars&color=5B4638&style=for-the-badge)
+
+[LeetCode profile](https://leetcode.com/u/pradeep21o8/) · [CodeChef profile](https://www.codechef.com/users/pradeep_21o8)
+
+</div>
 
 Comfortable with monotone stacks, prefix sums, LCA with binary lifting, and deriving closed-form O(N + Q) solutions.
 
