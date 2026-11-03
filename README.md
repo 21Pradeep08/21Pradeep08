@@ -16,7 +16,7 @@
 
 | 🔬 Research | 🧠 ML systems | 🏆 Problem solving | 🤝 Leadership |
 |:---:|:---:|:---:|:---:|
-| **DDPG + LSTM** network slicing for healthcare, IEEE-style paper in progress | **93.2%** QoS on 63K+ slice requests · **82.2%** speech-emotion accuracy | ![LeetCode](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fpradeep21o8&query=%24.totalSolved&label=LeetCode&suffix=%20solved&logo=leetcode&logoColor=white&color=FFA116) ![CodeChef](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodechef-api.vercel.app%2Fhandle%2Fpradeep_21o8&query=%24.currentRating&label=CodeChef&suffix=%20rating&logo=codechef&logoColor=white&color=5B4638) | Coding Club contests for **100+** students · Sports events for **200+** |
+| **DDPG + LSTM** network slicing for healthcare, IEEE-style paper in progress | **93.2%** QoS on 63K+ slice requests · **82.2%** speech-emotion accuracy | <!--STATS-->![LeetCode](https://img.shields.io/badge/LeetCode-profile-FFA116?logo=leetcode&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-1678_rating_·_3★-5B4638?logo=codechef&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-44_solved-5B4638?logo=codechef&logoColor=white)<!--/STATS--> | Coding Club contests for **100+** students · Sports events for **200+** |
 
 ---
 
@@ -73,9 +73,7 @@
 
 [![LeetCode stats](https://leetcard.jacoblin.cool/pradeep21o8?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/pradeep21o8/)
 
-![LeetCode solved](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fpradeep21o8&query=%24.totalSolved&label=LeetCode%20solved&logo=leetcode&logoColor=white&color=FFA116&style=for-the-badge)
-![CodeChef rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodechef-api.vercel.app%2Fhandle%2Fpradeep_21o8&query=%24.currentRating&label=CodeChef%20rating&logo=codechef&logoColor=white&color=5B4638&style=for-the-badge)
-![CodeChef stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodechef-api.vercel.app%2Fhandle%2Fpradeep_21o8&query=%24.stars&label=CodeChef%20stars&color=5B4638&style=for-the-badge)
+<!--STATS-->![LeetCode](https://img.shields.io/badge/LeetCode-profile-FFA116?logo=leetcode&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-1678_rating_·_3★-5B4638?logo=codechef&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-44_solved-5B4638?logo=codechef&logoColor=white)<!--/STATS-->
 
 [LeetCode profile](https://leetcode.com/u/pradeep21o8/) · [CodeChef profile](https://www.codechef.com/users/pradeep_21o8)
 
