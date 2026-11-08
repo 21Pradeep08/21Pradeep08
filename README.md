@@ -37,7 +37,7 @@ class Pradeep:
 
 | 🔬 Research | 🧠 ML systems | 🏆 Problem solving | 🤝 Leadership |
 |:---:|:---:|:---:|:---:|
-| **DDPG + LSTM** network slicing for healthcare, IEEE-style paper in progress | **93.2%** QoS on 63K+ slice requests · **82.2%** speech-emotion accuracy | <!--LC-->[![LeetCode](https://img.shields.io/badge/LeetCode-296_solved-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/pradeep21o8/)<!--/LC--> <!--CC-->[![CodeChef](https://img.shields.io/badge/CodeChef-1678_rating-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/pradeep_21o8) [![CodeChef](https://img.shields.io/badge/CodeChef-44_solved-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/pradeep_21o8)<!--/CC--> | Coding Club contests for **100+** students · Sports events for **200+** |
+| **DDPG + LSTM** network slicing for healthcare, IEEE-style paper in progress | **93.2%** QoS on 63K+ slice requests · **82.2%** speech-emotion accuracy | <!--LC-->[![LeetCode](https://img.shields.io/badge/LeetCode-301_solved-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/pradeep21o8/)<!--/LC--> <!--CC-->[![CodeChef](https://img.shields.io/badge/CodeChef-1678_rating-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/pradeep_21o8) [![CodeChef](https://img.shields.io/badge/CodeChef-44_solved-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/pradeep_21o8)<!--/CC--> | Coding Club contests for **100+** students · Sports events for **200+** |
 
 ---
 
@@ -97,7 +97,7 @@ class Pradeep:
 
 | Platform | Stats |
 |:---:|:---:|
-| **LeetCode** | <!--LC-->[![LeetCode](https://img.shields.io/badge/LeetCode-296_solved-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/pradeep21o8/)<!--/LC--> |
+| **LeetCode** | <!--LC-->[![LeetCode](https://img.shields.io/badge/LeetCode-301_solved-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/pradeep21o8/)<!--/LC--> |
 | **CodeChef** | <!--CC-->[![CodeChef](https://img.shields.io/badge/CodeChef-1678_rating-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/pradeep_21o8) [![CodeChef](https://img.shields.io/badge/CodeChef-44_solved-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/pradeep_21o8)<!--/CC--> |
 
 </div>
